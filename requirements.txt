@@ -3,3 +3,6 @@ scipy
 pandas
 torch
 scikit-learn
+matplotlib
+seaborn
+jupyterlab
